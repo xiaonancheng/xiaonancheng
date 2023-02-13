@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning machine learning, deep learning, computer vision.
 - 💞️ I’m looking to collaborate on machine learning, deep learning, computer vision, crawlers.
 - 📫 How to reach me:xiaonancheng@126.com
+- Other websites:
+  - https://gitee.com/dragonlord
+  - https://www.cnblogs.com/xiaonancheng
 
 <!---
 xiaonancheng/xiaonancheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
