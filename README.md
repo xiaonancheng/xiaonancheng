@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xiaonancheng
-- 👀 I’m interested in machine learning, deep learning, computer vision, crawlers,information safety,CTF(Capture The Flag).
-- 🌱 I’m currently learning machine learning, deep learning, computer vision.
-- 💞️ I’m looking to collaborate on machine learning, deep learning, computer vision, crawlers.
+- 👀 I’m interested in machine learning, deep learning, computer vision, crawlers,information safety,CTF(Capture The Flag),Full stack development.
+- 🌱 I’m currently learning machine learning, deep learning, computer vision,full stack development.
+- 💞️ I’m looking to collaborate on machine learning, deep learning, computer vision, crawlers,full stack development.
 - 📫 How to reach me:xiaonancheng@126.com or 2639190089@qq.com (in common use)
 - Other websites:
   - https://gitee.com/dragonlord
